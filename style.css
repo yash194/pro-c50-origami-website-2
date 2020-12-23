@@ -1,0 +1,42 @@
+.bodyimg{
+    background-image: url(https://image.freepik.com/free-photo/wall-wallpaper-concrete-colored-painted-textured-concept_53876-31799.jpg);
+    }
+
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 20px;
+    background-color: rgb(0, 0, 0);
+    color: blanchedalmond;
+    font-weight: 400;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/originals/6e/52/1b/6e521ba012d98828401aa6b63c654534.jpg);
+}
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+
+h2{
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: wheat;
+    background-image: url(https://www.filterforge.com/filters/11756.jpg);
+
+  }
+  
